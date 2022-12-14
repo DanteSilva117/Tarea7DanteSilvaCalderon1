@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+    <pelicula>
+        <nombre>Godzilla</nombre>
+        <fecha>20 de enero de 2014</fecha>
+        <productora>Warner Bros</productora>
+        <generos>
+            <genero>sci-fi</genero>
+            <genero>action</genero>
+            <genero>adventure</genero>
+        </generos>
+        <clasificacion>pg-13</clasificacion>
+        <duracion>2h 3m</duracion>
+        <plataformas>
+            <plataforma>primer video</plataforma>
+            <plataforma>hbo max</plataforma>
+            <plataforma>apple tv</plataforma>
+        </plataformas>
+    </pelicula>
+    <pelicula>
+        <nombre>MAN OF STEEL</nombre>
+        <fecha>Jun 14, 2013 </fecha>
+        <productora>Warner Bros</productora>
+        <generos>
+            <genero>action</genero>
+            <genero>adventure</genero>
+            <genero>sci-fi</genero>
+            <genero>fantasy</genero>
+        </generos>
+        <clasificacion>PG-13 </clasificacion>
+        <duracion>2h 23m</duracion>
+        <plataformas>
+            <plataforma>primer video</plataforma>
+            <plataforma>hbo max</plataforma>
+            <plataforma>apple tv</plataforma>
+        </plataformas>
+    </pelicula>
+    <pelicula>
+        <nombre>ANT-MAN</nombre>
+        <fecha>Jul 17, 2015</fecha>
+        <productora>Walt Disney</productora>
+        <generos>
+            <genero>action</genero>
+            <genero>adventure</genero>
+            <genero>fantasy</genero>
+            <genero>comedy</genero>
+        </generos>
+        <clasificacion>PG-13 (Sci-Fi Action Violence)</clasificacion>
+        <duracion>1h 57m</duracion>
+        <plataformas>
+            <plataforma>VUDU</plataforma>
+            <plataforma>primer video</plataforma>
+            <plataforma>Disney+</plataforma>
+            <plataforma>apple tv</plataforma>
+        </plataformas>
+    </pelicula>
+    <pelicula>
+        <nombre>JUMANJI: WELCOME TO THE JUNGLE</nombre>
+        <fecha>Dec 20, 2017</fecha>
+        <productora>Sony Pictures Entertainment</productora>
+        <generos>
+            <genero>adventure</genero>
+            <genero>action</genero>
+            <genero>comedy</genero>
+            <genero>fantasy</genero>
+        </generos>
+        <clasificacion>PG-13 (Some Language|Adventure Action|Suggestive Content)</clasificacion>
+        <duracion>1h 59m</duracion>
+        <plataformas>
+            <plataforma>VUDU</plataforma>
+            <plataforma>primer video</plataforma>
+            <plataforma>apple tv</plataforma>
+        </plataformas>
+    </pelicula>
+    <pelicula>
+        <nombre>PROJECT X</nombre>
+        <fecha>Mar 2, 2012</fecha>
+        <productora>Warner Bros. Pictures</productora>
+        <generos>
+            <genero>comedy</genero>
+        </generos>
+        <clasificacion>R (Pervasive Language|Crude Sexual Content Throughou|All Involving Teens|Nudity|Drinking|Reckless Behavior|Drugs|Mayhem)</clasificacion>
+        <duracion>1h 28m</duracion>
+        <plataformas>
+            <plataforma>primer video</plataforma>
+            <plataforma>apple tv</plataforma>
+        </plataformas>
+    </pelicula> 
+</peliculas>
